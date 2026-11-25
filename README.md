@@ -32,4 +32,4 @@ git clone https://github.com/pronin-dennis/SitesLAB.git
 3. Запусти `index.html` через Live Server.
 ## Скріншот
 
-![Головна сторінка](images/screenshot.png)
+![Головна сторінка](HTML_LAB-5/taskboard/images/screenshot.png)
