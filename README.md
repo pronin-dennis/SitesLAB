@@ -33,3 +33,7 @@ git clone https://github.com/pronin-dennis/SitesLAB.git
 ## Скріншот
 
 ![Головна сторінка](HTML_LAB-5/taskboard/images/screenshot.png)
+
+## Демо
+
+[Відкрити сайт](https://pronin-dennis.github.io/SitesLAB/)
